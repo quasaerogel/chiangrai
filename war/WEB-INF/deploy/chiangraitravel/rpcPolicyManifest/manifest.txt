@@ -1,0 +1,3 @@
+# Module chiangraitravel
+# RPC service class, partial path of RPC policy file
+th.ac.utcc.chiangraitravel.client.GreetingService, 3D24FB0AEA9B935BB3E802934A7E46DF.gwt.rpc

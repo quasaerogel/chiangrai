@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.chiangraitravel.client.GreetingService
+path: 3D24FB0AEA9B935BB3E802934A7E46DF.gwt.rpc
